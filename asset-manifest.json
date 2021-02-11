@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IT-Logger-Redux/static/css/main.afd7172b.chunk.css",
+    "main.js": "/IT-Logger-Redux/static/js/main.d99b44d1.chunk.js",
+    "main.js.map": "/IT-Logger-Redux/static/js/main.d99b44d1.chunk.js.map",
+    "runtime-main.js": "/IT-Logger-Redux/static/js/runtime-main.78adeba7.js",
+    "runtime-main.js.map": "/IT-Logger-Redux/static/js/runtime-main.78adeba7.js.map",
+    "static/css/2.0ba96f5c.chunk.css": "/IT-Logger-Redux/static/css/2.0ba96f5c.chunk.css",
+    "static/js/2.86f551ac.chunk.js": "/IT-Logger-Redux/static/js/2.86f551ac.chunk.js",
+    "static/js/2.86f551ac.chunk.js.map": "/IT-Logger-Redux/static/js/2.86f551ac.chunk.js.map",
+    "index.html": "/IT-Logger-Redux/index.html",
+    "static/css/2.0ba96f5c.chunk.css.map": "/IT-Logger-Redux/static/css/2.0ba96f5c.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/IT-Logger-Redux/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.86f551ac.chunk.js.LICENSE.txt": "/IT-Logger-Redux/static/js/2.86f551ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78adeba7.js",
+    "static/css/2.0ba96f5c.chunk.css",
+    "static/js/2.86f551ac.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.d99b44d1.chunk.js"
+  ]
+}
